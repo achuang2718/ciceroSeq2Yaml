@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="YamlDotNet" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DataStructures">
+      <HintPath>..\..\Cicero-Word-Generator-1.64rev7\Cicero-Word-Generator-1.64rev7\Cicero\DataStructures.dll</HintPath>
+    </Reference>
+    <Reference Include="dotMath">
+      <HintPath>..\..\Cicero-Word-Generator-1.64rev7\Cicero-Word-Generator-1.64rev7\Cicero\dotMath.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wOmz++wp4auLYzKYYttPi9FBDCsE3vpyIOWmnIR/YsaJK+YAIiOhBgJnX2RPcyrWjYaH1ucRuvZT1W5WPWDGWA==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\CiceroParser\\CiceroParser\\CiceroParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\alexc\\.nuget\\packages\\yamldotnet\\12.0.0\\yamldotnet.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

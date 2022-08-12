@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CiceroParser</id>
+    <version>1.0.0</version>
+    <authors>CiceroParser</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="YamlDotNet" version="12.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Desktop\CiceroParser\CiceroParser\bin\Release\netcoreapp3.1\CiceroParser.runtimeconfig.json" target="lib\netcoreapp3.1\CiceroParser.runtimeconfig.json" />
+    <file src="D:\Desktop\CiceroParser\CiceroParser\bin\Release\netcoreapp3.1\CiceroParser.dll" target="lib\netcoreapp3.1\CiceroParser.dll" />
+  </files>
+</package>
