@@ -13,4 +13,4 @@ This will take a Cicero .seq file at `MYSEQFILEPATH` and output a .yaml file in 
 Solution source files are included for modification and manual builds in Visual Studio.
 
 ## Dependencies
-Uses YamlDotNet library from NuGet.
+Uses YamlDotNet library from NuGet, as well as the pre-built DataStructures.dll and dotMath.dll from https://akeshet.github.io/Cicero-Word-Generator/.
